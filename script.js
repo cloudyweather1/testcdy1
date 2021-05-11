@@ -1,0 +1,1 @@
+//a script file with no codes
